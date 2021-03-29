@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Star-Cyber3  
-I'm currently advancing my HTML, CSS and JS skills. 
+I'm currently advancing my HTML, CSS and JS skills.  
+I also run a small code class for my friends. 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Star-Cyber3&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Star-Cyber3&hide=typescript,glsl)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Star-Cyber3)
