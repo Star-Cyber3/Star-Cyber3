@@ -6,7 +6,7 @@ I also run a small code class for my friends.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Star-Cyber3&hide=typescript,glsl,ruby,shell)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Star-Cyber3)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Star-Cyber3)  
-<a href="https://discord.gg/HtpFjjBuvS" target="_self">Go to this Discord Server</a>
+<a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a><a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a><a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a><a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a><a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a><a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a><a href="https://discord.gg/HtpFjjBuvS" target="_self" style="font-size:xx-large">Go to this Discord Server</a>
 <!--
 **Star-Cyber3/Star-Cyber3** is a ✨ _special_ ✨ repository because its `R"EADME.md` (this file) appears on your GitHub profile.
 
